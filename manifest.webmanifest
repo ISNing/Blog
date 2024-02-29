@@ -1,8 +1,8 @@
 {
-  "name": "Urara",
-  "short_name": "Urara",
+  "name": "isning/blog",
+  "short_name": "isning/blog",
   "lang": "en-US",
-  "description": "Powered by SvelteKit/Urara",
+  "description": "Just for recording&sharing something useful/useless",
   "id": "https://urara-demo.netlify.app/",
   "start_url": "/",
   "scope": "/",
