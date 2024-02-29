@@ -1,7 +1,7 @@
 {
   "name": "isning/blog",
   "short_name": "isning/blog",
-  "lang": "en-US",
+  "lang": "zh-CN",
   "description": "Just for recording&sharing something useful/useless",
   "id": "https://urara-demo.netlify.app/",
   "start_url": "/",
