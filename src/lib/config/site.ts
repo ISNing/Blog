@@ -5,7 +5,7 @@ export const site: SiteConfig = {
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
   title: 'isning/blog',
   subtitle: '',
-  lang: 'en-US',
+  lang: 'zh-CN',
   description: 'Just for recording&sharing something useful/useless',
   author: {
     avatar: '/assets/avatar@512.jpg',
