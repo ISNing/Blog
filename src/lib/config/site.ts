@@ -9,7 +9,7 @@ export const site: SiteConfig = {
   },
   description: 'Just for recording&sharing something useful/useless',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
-  lang: 'en-US',
+  lang: 'zh-CN',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   subtitle: '',
   themeColor: '#3D4451',
